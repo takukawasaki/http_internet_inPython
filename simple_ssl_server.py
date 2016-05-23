@@ -1,4 +1,3 @@
-#!/Users/kawasakitaku/Documents/python-PVM/ln-python2.7/bin/python2.7
 
 
 import socket, os
